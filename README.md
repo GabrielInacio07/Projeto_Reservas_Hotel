@@ -34,6 +34,7 @@ Tudo isso totalmente integrado a um banco de dados **MySQL**.
   <img align="center" alt="Gabriel-Prisma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
 </div>
 
+<hr/>
  
 https://github.com/user-attachments/assets/0438afeb-f39d-4c62-98f5-0f28c8932007
 
