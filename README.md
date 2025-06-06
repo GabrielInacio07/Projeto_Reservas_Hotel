@@ -1,6 +1,8 @@
 Hotel Management System
-Este é um sistema de gerenciamento de hotel desenvolvido para facilitar o controle de quartos, reservas e clientes. Ele permite adicionar, editar, excluir e gerenciar informações de forma eficiente, com uma interface amigável baseada em web.
-A proposta do projeto é oferecer uma solução prática para hotéis gerenciarem suas operações diárias, incluindo o cadastro de clientes, alocação de quartos, registro de reservas e acompanhamento de status (como check-in e check-out), tudo integrado a um banco de dados MySQL.
+Este é um sistema de gerenciamento de hotel desenvolvido para facilitar o controle de quartos, reservas e clientes. 
+Ele permite adicionar, editar, excluir e gerenciar informações de forma eficiente, com uma interface amigável baseada em web.
+A proposta do projeto é oferecer uma solução prática para hotéis gerenciarem suas operações diárias, incluindo o cadastro de clientes, 
+alocação de quartos, registro de reservas e acompanhamento de status (como check-in e check-out), tudo integrado a um banco de dados MySQL.
 
 Tecnologias Utilizadas
 Next.js 🖥️ - Framework para construção da interface e backend.
